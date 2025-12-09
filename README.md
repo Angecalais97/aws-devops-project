@@ -1,4 +1,4 @@
-#### AWS DevOps Full Beginner Project
+# AWS DevOps Full Beginner Project
 
 This repository contains the full DevOps beginner project built step-by-step with AWS, Linux, GitHub, Docker, and CI/CD.
 
